@@ -1,0 +1,2 @@
+# lernaExample
+Example lerna repo
